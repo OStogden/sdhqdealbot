@@ -1,8 +1,8 @@
 {
   "name": "isthereanydeal-lookup",
-  "version": "3.0.0",
+  "version": "1.0.0",
   "description": "Discord bot for getting game discount info from IsThereAnyDeal",
-  "author": "Adam Davies <adam@adam-davies.me> (https://adam-davies.me)",
+  "author": "Adam Davies <adam@adam-davies.me> (https://adam-davies.me), Modified for SDHQ by O.Stogden",
   "main": "lib/index.ts",
   "license": "MIT",
   "scripts": {
